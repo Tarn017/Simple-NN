@@ -6,14 +6,14 @@
 ![Download Screenshot](https://github.com/Tarn017/Simple-NN/blob/main/Assets/Repo_download.png)
 
 3. Kopiert den Ordner "tiere400", "requirements_class.txt`, das Skript "NeuralNetwork.py" und "main_FFN.py" euer Python-Projekt.  
-4. Öffnet nun das Skript `main_FFN.py`. Zunächst müssen, falls noch nichtgeschehen, die nötigen Bibliotheken herunter geladen werden. Gehr dafür unten auf das Terminal und gebt ein `pip install -r requirements_class.txt`:
+4. Öffnet nun das Skript `main_FFN.py`. Zunächst müssen, falls noch nichtgeschehen, die nötigen Bibliotheken herunter geladen werden. Geht dafür unten auf das Terminal und gebt ein `pip install -r requirements_class.txt`:
 
 ![requirements Screenshot](https://github.com/Tarn017/Simple-NN/blob/main/Assets/requirements.png)
 
 **Training: **
 
 Für das Training wird nun die folgende Funktion genutzt:  
-`CNN(train_path, epochs, lr, conv_filters, fully_layers, resize, model_name, train_split, droprate, augmentation, dec_lr)`  
+`FFN(train_path, model_name, resize, epochs, dataset_size, fully_layers, lr=, dec_lr, droprate, augmentation)`  
 1. *train_path* entspricht dem Ordner auf den ihr das Netz trainieren wollt
 2. *epochs* entspricht der Anzahl an Epochen, die das Netz trainiert werden soll
 3. *lr* entspricht der Lernrate
