@@ -17,7 +17,7 @@ Für das Training wird nun die folgende Funktion genutzt:
 Einer Vorlage dafür ist bereits im Skript `main_FFN` vorhanden. Es müssen lediglich die Parameter angepasst werden:
 
 1. *train_path* entspricht dem Ordner auf den ihr das Netz trainieren wollt. Einfach 'tiere400' angeben.
-2. *dataset_size* bestimmt die größe des Datensatzes. Der Wert muss sich zwischen 0 und 1 befinden. Ein Wert von 0.05 entspricht einem sehr kleinen Datensatz  und ein Wert von 0.95 einem sehr großen.
+2. *dataset_size* bestimmt die größe des Datensatzes. Der Wert muss sich zwischen 0 und 1 befinden. Beispielsweise entspricht ein Wert von 0.05 einem sehr kleinen Datensatz und ein Wert von 0.95 einem sehr großen Datensatz.
 3. *epochs* entspricht der Anzahl an Epochen, die das Netz trainiert werden soll
 4. *lr* entspricht der Lernrate
 5. *fully_layers* hat die Form [x,y,z,...], wobei x der Anzahl an Neuronen in der 1. Schicht, y der Anzahl in der 2. Schicht, usw. entspricht. Damit wird daher auch die Anzahl an Schichten gesteuert.  
