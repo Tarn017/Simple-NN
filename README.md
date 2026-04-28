@@ -5,7 +5,7 @@
 
 ![Download Screenshot](https://github.com/Tarn017/Simple-NN/blob/main/Assets/Repo_download.png)
 
-3. Kopiert den Ordner "tiere400", "requirements_class.txt`, das Skript "NeuralNetwork.py" und "main_FFN.py" euer Python-Projekt.  
+3. Kopiert den Ordner "tiere400", "requirements_class.txt`, das Skript "NeuralNetwork.py" und "main_FFN.py" in euer Python-Projekt.  
 4. Öffnet nun das Skript `main_FFN.py`. Zunächst müssen, falls noch nichtgeschehen, die nötigen Bibliotheken herunter geladen werden. Geht dafür unten auf das Terminal und gebt ein `pip install -r requirements_class.txt`:
 
 ![requirements Screenshot](https://github.com/Tarn017/Simple-NN/blob/main/Assets/requirements.png)
