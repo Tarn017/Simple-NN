@@ -1,6 +1,6 @@
 # Simple-NN
 
-**Vorgehen: **  
+**Vorgehen:**  
 1. Ladet zunächst das Repository herunter. Geht dafür oben auf der Seite auf das grüne Feld "Code" und anschließend "Download ZIP":
 
 ![Download Screenshot](https://github.com/Tarn017/Simple-NN/blob/main/Assets/Repo_download.png)
@@ -10,7 +10,7 @@
 
 ![requirements Screenshot](https://github.com/Tarn017/Simple-NN/blob/main/Assets/requirements.png)
 
-**Training: **
+**Training:**
 
 Für das Training wird nun die folgende Funktion genutzt:  
 `FFN(train_path, model_name, resize, epochs, dataset_size, fully_layers, lr=, dec_lr, droprate, augmentation)`  
