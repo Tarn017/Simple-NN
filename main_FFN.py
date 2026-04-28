@@ -10,6 +10,6 @@ if __name__ == "__main__":
             fully_layers=[500, 100, 20],
             lr=0.001,
             dec_lr=1e-5,
-            droprate=0.5,
+            droprate=0,
             augmentation=[0,0,0,0,0]
         )
