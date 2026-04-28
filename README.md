@@ -1,7 +1,7 @@
 # Simple-NN
 
 **Vorgehen:**  
-1. Ladet zunächst das Repository herunter. Geht dafür oben auf der Seite auf das grüne Feld "Code" und anschließend "Download ZIP":
+1. Ladet zunächst das Repository herunter. Geht dafür hier auf der Seite oben auf das grüne Feld "Code" und anschließend "Download ZIP":
 
 ![Download Screenshot](https://github.com/Tarn017/Simple-NN/blob/main/Assets/Repo_download.png)
 
