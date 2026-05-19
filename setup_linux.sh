@@ -1,6 +1,6 @@
 ls
 echo "[INFO] entered .venv/"
-python3 -m ensurepip --upgrade
+pip install --upgrade pip
 echo "[INFO] upgraded pip"
 pip install -r requirements_class.txt
 echo "[INFO] non-torch libraries installed"
